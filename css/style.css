@@ -1,0 +1,23 @@
+html, boby {
+  margin: 0;
+  font-size: 1em;
+  background-color: #efefef;
+  color: #333333;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: normal;
+  color: #333333
+}
+
+p {
+  color: #333333;
+}
+
+a {
+  text-transformation: none;
+}
+
+a:hover {
+  text-transformation: underline;
+}
